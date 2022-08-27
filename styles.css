@@ -1,10 +1,7 @@
-html, body {
+.body {
+    background-repeat: no-repeat;
     max-width: 100%;
     overflow-x: hidden;
-}
-
-body {
-    background-repeat: no-repeat;
   }
 
 .heading {
