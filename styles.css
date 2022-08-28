@@ -1,6 +1,7 @@
 .body {
     background-repeat: no-repeat;
     max-width: 100%;
+    max-height: fit-content;
     overflow-x: hidden;
   }
 
